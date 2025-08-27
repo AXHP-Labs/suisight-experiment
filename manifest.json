@@ -27,11 +27,18 @@
   "dir": "ltr",
   "screenshots": [
     {
-      "src": "/Fulcrum.png",
-      "sizes": "1280x720",
-      "type": "image/png",
+      "src": "/og-preview.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
       "form_factor": "wide",
-      "label": "SuiSight Homepage"
+      "label": "SuiSight Dashboard - Prediction Markets Overview"
+    },
+    {
+      "src": "/mobile-preview.jpg",
+      "sizes": "390x844",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "SuiSight Mobile Interface"
     }
   ],
   "shortcuts": [
